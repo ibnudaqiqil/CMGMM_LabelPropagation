@@ -1,7 +1,7 @@
 
 
 
-# Combine Merge Gaussian Mixture Model
+# Weakly Supervise Combine Merge Gaussian Mixture Model 
 The Combine Merge Gaussian Mixture Model (CMGMM) is an incremental classification algorithm that has the ability to adapt to the new incoming concept. This algorithm is developed based on a Gaussian Mixture Model (GMM) and inherits all properties of GMM like a set of parameters w, µ, and P denoting the non-negative weight, distribution means, and covariance matrix, respectively. Furthermore, this algorithm can add new components as new relevant information or concept that identified in the current data then merge some component to adjust the parameters of each distribution.
 
 if you use this code please cite us at :
